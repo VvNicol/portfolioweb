@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+	background-color: #000;
+	color: #fff;
+}
+
+.portfolio-section {
+	margin: 40px 0;
+}
+
+.project-card {
+	background-color: #222;
+	border: none;
+}
+
+.project-card img {
+	max-height: 200px;
+	object-fit: cover;
+}
